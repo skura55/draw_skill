@@ -1,0 +1,153 @@
+Style Reference & Execution Instructions:
+
+1. Art Style (Social Science Academic Diagram Aesthetic)
+
+Generate a professional conceptual framework diagram suitable for top-tier social science journals (SSCI/CSSCI/Public Administration/Information Systems/Sociology/HCI/CSCW).
+
+The image should resemble:
+- theoretical framework diagrams
+- governance structure models
+- conceptual mechanism maps
+- social service system diagrams
+- socio-technical ecosystem illustrations
+
+Visual characteristics:
+- Flat 2D vector graphics
+- Thin black outlines
+- Strong geometric order
+- Symmetrical composition
+- Large whitespace
+- Minimalist academic textbook style
+- Monochrome or grayscale dominant
+- Subtle muted fills only when necessary
+
+DO NOT use:
+- colorful engineering-style palettes
+- glowing effects
+- UI mockup aesthetics
+- cyberpunk visuals
+- realistic rendering
+- 3D perspective
+- dramatic shadows
+- infographic commercial style
+
+The figure should visually resemble social science journal illustrations commonly found in:
+public governance,
+aging studies,
+education research,
+service design,
+sociology,
+digital governance,
+and socio-technical systems research.
+
+---
+
+2. Layout & Composition Constraints
+
+Strictly follow the spatial arrangement defined in the VISUAL SCHEMA.
+
+The diagram must emphasize:
+- hierarchy
+- institutional relationships
+- conceptual progression
+- service support structure
+- governance coordination
+- social interaction pathways
+
+Preferred layout characteristics:
+- vertical layered structures
+- centered governance hubs
+- concentric relationship systems
+- pyramid hierarchies
+- balanced bilateral compositions
+- radial coordination networks
+
+All modules must maintain:
+- equal visual weight
+- clean spacing
+- strong alignment
+- orderly reading flow
+
+---
+
+3. Graphic Element Constraints
+
+Preferred visual primitives:
+- rounded rectangles
+- circles
+- concentric rings
+- dashed boundaries
+- thin arrows
+- layered blocks
+- structural axes
+- relationship connectors
+- hierarchy separators
+
+Arrow semantics must be visually distinguishable:
+- solid arrows → direct influence
+- dashed arrows → indirect support
+- bidirectional arrows → interaction/coordination
+- circular arrows → feedback mechanisms
+
+Avoid:
+- decorative icons
+- engineering hardware symbols
+- excessive illustration details
+- photorealistic objects
+
+---
+
+4. Typography Constraints
+
+CRITICAL TEXT RULES:
+
+DO NOT render:
+- meta-structure labels
+- instructional terms
+- layout notes
+- schema annotations
+- words like:
+  "ZONE",
+  "Container",
+  "Layout Configuration",
+  "Input",
+  "Output",
+  "Module"
+
+ONLY render text explicitly included under:
+"Key Text Labels"
+
+Typography requirements:
+- clean Sans-serif font
+- bold or semi-bold academic style
+- black or dark gray text
+- centered alignment where possible
+- moderate spacing
+- high readability for print papers
+
+---
+
+5. Visual Tone & Semantic Expression
+
+The diagram should communicate:
+- academic rigor
+- institutional order
+- conceptual clarity
+- governance logic
+- social mechanism structure
+
+NOT:
+- computational complexity
+- futuristic AI systems
+- technical hardware architecture
+- engineering network density
+
+The final image should look like a conceptual framework figure directly extracted from a high-quality social science dissertation or SSCI journal article.
+
+---
+
+6. Visual Schema Execution
+
+Translate the following structural blueprint into the final image:
+
+[[VISUAL SCHEMA]的全部内容]
