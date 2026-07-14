@@ -1,0 +1,26 @@
+{
+  "name": "social-science-visualization-prompt",
+  "version": "1.1.0",
+  "updated_at": "2026-07-14",
+  "source": "userImport",
+  "remote_manifest_url": "https://cdn.jsdelivr.net/gh/skura55/draw_skill@main/references/VERSION.json",
+  "min_workbuddy_version": "",
+  "changelog": [
+    {
+      "version": "1.1.0",
+      "date": "2026-07-14",
+      "changes": [
+        "新增「步骤0：版本自检」功能：每次启动读取本地 VERSION.json 展示版本信息",
+        "支持配置 remote_manifest_url 后自动联网校验远程最新版本，远程不可达时静默降级为本地展示"
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "date": "2026-06-16",
+      "changes": [
+        "初始导入版本，五步工作流程生成社科绘图提示词",
+        "支持可选输出 Mermaid 与 SVG 代码"
+      ]
+    }
+  ]
+}
